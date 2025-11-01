@@ -8,6 +8,9 @@ import re
         *) Download raw data from KITTI:
            https://www.cvlibs.net/datasets/kitti/raw_data.php
         *) Update IMAGE_DIR below to point to your image folder.
+
+        *) Download model if this script doesnt do it from the below link
+        https://drive.google.com/file/d/1Rltp9nw-nrQ2KLBIcmVnUIeSFegKYzf0/view?usp=sharing 
 '''
 
 # ---------- CONFIG ----------
